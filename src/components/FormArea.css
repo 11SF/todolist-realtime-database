@@ -1,0 +1,35 @@
+.FormArea {
+    height: 4rem;
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -2rem;
+}
+.taskInput {
+    width: 60%;
+    display: inline;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    border: none;
+}
+.dateInput {
+    width: 15%;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    border: none;
+}
+.FormArea button#add {
+    width: 10%;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    border: none;
+    background-color: #7BA695;
+    color: #fff;
+    cursor: pointer;
+}
+.dialog-sheet {
+    margin-top: 1rem;
+    background-color: #fff;
+    border-radius: 0.4rem;
+}

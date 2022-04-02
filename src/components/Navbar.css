@@ -1,0 +1,14 @@
+.navbar {
+    height: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: #2F4B4C;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.textWrap {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 100%;
+}
